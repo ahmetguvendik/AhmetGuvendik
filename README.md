@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmetguvendik
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Flutter And ASP.Net Core
+- 🌱 I’m currently learning Asp.Net Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
