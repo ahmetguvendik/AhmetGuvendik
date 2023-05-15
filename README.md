@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">A passionate Swift And Flutter developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Manav Project](https://github.com/ahmetguvendik/ETicaretAPI)
+- 🔭 I’m currently working on [ETicaretAPI](https://github.com/ahmetguvendik/ETicaretAPI)
 
 - 🌱 I’m currently learning **SQL**
 
