@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">A passionate .Net Developer from Turkey</h3>
 
-- 🔭 I’m currently working on [BlockProject](https://github.com/ahmetguvendik/Blog-Project)
+- 🔭 I’m currently working on [Rent A Car Project]([https://github.com/ahmetguvendik/Blog-Project](https://github.com/ahmetguvendik/Rent-a-Car-Project))
 
 - 🌱 I’m currently learning **SQL**
 
