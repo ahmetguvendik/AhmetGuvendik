@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">A passionate .Net Developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Rent A Car Project]([https://github.com/ahmetguvendik/Rent-a-Car-Project])
+- 🔭 I’m currently working on [Matbaa Atolyesi]([https://github.com/ahmetguvendik/MatbaaAtolyesi])
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **SQL and .Net Core Backend**
 
-- 💬 Ask me about **Swift, Flutter And ASP.Net Core**
+- 💬 Ask me about **ASP.Net Core**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
