@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">A passionate .Net Developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Matbaa Atolyesi]([https://github.com/ahmetguvendik/MatbaaAtolyesi])
+- 🔭 I’m currently working on [JobEntry]([https://github.com/ahmetguvendik/JobEntry])
 
 - 🌱 I’m currently learning **SQL and .Net Core Backend**
 
