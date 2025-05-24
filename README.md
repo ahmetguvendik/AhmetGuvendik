@@ -1,32 +1,66 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">A passionate .Net Developer from Turkey</h3>
+<h3 align="center">🌍 A Passionate .NET Developer from Turkey 🇹🇷</h3>
 
-- 🔭 I’m currently working on [JobEntry]([https://github.com/ahmetguvendik/JobEntry])
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=.NET+Core+Enthusiast;SQL+Explorer;Backend+Developer+in+Progress;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **SQL and .Net Core Backend**
+---
 
-- 💬 Ask me about **ASP.Net Core**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 Currently working on: [JobEntry](https://github.com/ahmetguvendik/JobEntry)
+- 🌱 Currently learning: **SQL** & **.NET Core Backend**
+- 💬 Ask me about: **ASP.NET Core**, **Entity Framework**, **RESTful APIs**
+
+---
+
+### 📫 Connect with Me
+
 <p align="left">
-<a href="https://twitter.com/guvendik_ahmet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guvendik_ahmet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmetguvendik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetguvendik" height="30" width="40" /></a>
+  <a href="https://twitter.com/guvendik_ahmet" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahmetguvendik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-<h3 align="left">Github Stats:</h3>
+---
 
-![](https://github-readme-stats.vercel.app/api?username=ahmetguvendik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmetguvendik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetguvendik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetguvendik&show_icons=true&theme=tokyonight&hide_border=false" alt="Ahmet's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmetguvendik&theme=tokyonight&hide_border=false" alt="Ahmet's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetguvendik&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
 
-![](https://github-profile-trophy.vercel.app/?username=ahmetguvendik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-<h3 align="left">🔝 Top Contributed Repo:</h3>
+### 🏆 GitHub Trophies
 
-![](https://github-contributor-stats.vercel.app/api?username=ahmetguvendik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmetguvendik&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ahmetguvendik&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
