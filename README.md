@@ -9,9 +9,10 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: [JobEntry](https://github.com/ahmetguvendik/JobEntry)
-- 🌱 Currently learning: **SQL** & **.NET Core Backend**
-- 💬 Ask me about: **ASP.NET Core**, **Entity Framework**, **RESTful APIs**
+Computer Engineer with 2.5 years of IT infrastructure experience, now fully focused on software
+development. Skilled in ASP.NET Core, API design, and SQL. Strong background in troubleshooting and
+network management. Passionate about writing clean, efficient code and building scalable applications.
+Continuously improving full-stack development skills.
 
 ---
 
