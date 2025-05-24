@@ -58,8 +58,3 @@ Continuously improving full-stack development skills.
   <img src="https://github-profile-trophy.vercel.app/?username=ahmetguvendik&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
----
-
-### 🔝 Top Contributed Repo
-
-<table> <tr> <td> <a href="https://github.com/ahmetguvendik/JobEntry"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetguvendik&repo=JobEntry&theme=tokyonight" /> </a> </td> <td> <a href="https://github.com/ahmetguvendik/SampleProject"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmetguvendik&repo=SampleProject&theme=tokyonight" /> </a> </td> </tr> </table>
