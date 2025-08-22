@@ -40,7 +40,8 @@
 
 ## 🛠️ Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,rider,vscode,docker,postgres,postman,swagger" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,rider,vscode,docker,postgres,postman" />
+  <img src="https://techicons.dev/icons/swagger" alt="Swagger" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL" width="48" height="48"/>
 </p>
 
