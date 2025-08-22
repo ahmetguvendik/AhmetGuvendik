@@ -1,55 +1,59 @@
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">🌍 A Passionate .NET Developer from Turkey 🇹🇷</h3>
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Ahmet Güvendik</h1>
+<h3 align="center">🌍 Junior .NET Developer from Turkey 🇹🇷</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=.NET+Core+Enthusiast;SQL+Explorer;Backend+Developer+in+Progress;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=.NET+Core+Enthusiast;Backend+Developer;SQL+Explorer;Always+Learning+📚" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me  
 
-Computer Engineer with 2.5 years of IT infrastructure experience, now fully focused on software
-development. Skilled in ASP.NET Core, API design, and SQL. Strong background in troubleshooting and
-network management. Passionate about writing clean, efficient code and building scalable applications.
-Continuously improving full-stack development skills.
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/guvendik_ahmet" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmetguvendik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+💻 Computer Engineer with **2.5 years of IT infrastructure experience**  
+🎯 Currently focused on **.NET development, APIs, and SQL**  
+🔧 Skilled in **ASP.NET Core**, **Database Design**, **Troubleshooting**  
+🌱 Always improving **Full-Stack Development** skills  
+⚡ Passionate about **clean code & scalable applications**  
 
 ---
 
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🌐 Connect with Me  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetguvendik&show_icons=true&theme=tokyonight&hide_border=false" alt="Ahmet's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmetguvendik&theme=tokyonight&hide_border=false" alt="Ahmet's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetguvendik&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <a href="https://linkedin.com/in/ahmetguvendik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/guvendik_ahmet" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmetguvendik&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,azure,mysql,postgres" />
 </p>
 
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetguvendik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmetguvendik&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetguvendik&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmetguvendik&theme=onedark&no-frame=true&margin-w=10&row=1" />
+</p>
