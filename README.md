@@ -34,7 +34,7 @@
 ## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,azure,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,docker,mssql,postgres" />
 </p>
 
 ---
