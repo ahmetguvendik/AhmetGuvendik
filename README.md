@@ -33,10 +33,17 @@
 
 ## 🛠️ Languages & Tools  
 
+## 📚 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,rider,vscode,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+## 🛠️ Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,rider,vscode,docker,postgres,postman,swagger" />
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MSSQL" width="48" height="48"/>
 </p>
+
 
 
 ---
