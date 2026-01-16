@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Ahmet Güvendik</h1>
-<h3 align="center">🌍 Junior .NET Developer from Turkey 🇹🇷</h3>
+<h3 align="center">🌍 .NET Developer 🇹🇷</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=.NET+Core+Enthusiast;Backend+Developer;SQL+Explorer;Always+Learning+📚" alt="Typing SVG" />
