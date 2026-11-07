@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-# Merhaba, ben Ahmet Güvendik 👋
+# Hi there, I'm Ahmet Güvendik 👋
 
 ### Software Engineer · Backend Developer · .NET
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 Hakkımda
+## 👨‍💻 About Me
 
 ```csharp
 public class AhmetGuvendik : SoftwareEngineer
@@ -29,16 +29,17 @@ public class AhmetGuvendik : SoftwareEngineer
 }
 ```
 
-- 🎓 **Bilgisayar Mühendisi**
-- 🎯 Şu an **.NET ekosistemi, API geliştirme ve SQL** üzerine yoğunlaşıyorum
-- 🏗️ **Ölçeklenebilir, sürdürülebilir ve temiz** yazılım mimarileri kurmayı seviyorum
-- 🌱 **Full-Stack** yetkinliklerimi sürekli geliştiriyorum
+- 🎓 **Computer Engineer** with a passion for backend systems
+- 🎯 Currently focused on **.NET, API development, and SQL**
+- 🏗️ I love building **scalable, maintainable, and clean** software architectures
+- 🌱 Continuously growing my **Full-Stack** skill set
+- 💬 Ask me about **ASP.NET Core, database design, or debugging tricky issues**
 
 ---
 
 ## 🧰 Tech Stack
 
-**Diller & Framework'ler**
+**Languages & Frameworks**
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
@@ -47,7 +48,7 @@ public class AhmetGuvendik : SoftwareEngineer
   <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core"/>
 </p>
 
-**Veritabanları & Cache**
+**Databases & Caching**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -55,7 +56,7 @@ public class AhmetGuvendik : SoftwareEngineer
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
-**DevOps & Araçlar**
+**DevOps & Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
@@ -65,7 +66,7 @@ public class AhmetGuvendik : SoftwareEngineer
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-**IDE'ler**
+**IDEs**
 
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
@@ -75,7 +76,7 @@ public class AhmetGuvendik : SoftwareEngineer
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -88,20 +89,22 @@ public class AhmetGuvendik : SoftwareEngineer
 
 ---
 
-## 🎧 Şu An Dinliyorum
+## 🎧 Code & Music
 
 <div align="center">
 
-<!-- Seçenek 1 (hazır servis): widgets.1ceit.com'da giriş yapıp Spotify'ı bağladıktan sonra -->
+<!-- Now Coding: requires the VS Code extension from widgets.1ceit.com. Uncomment once it's set up.
+<img src="https://widgets.1ceit.com/ahmetguvendik/nowcoding" alt="Now Coding"/>
+-->
+
 <a href="https://widgets.1ceit.com/ahmetguvendik/spotify?open" target="_blank">
   <img src="https://widgets.1ceit.com/ahmetguvendik/spotify" alt="Spotify Now Playing"/>
 </a>
 
-<!-- Seçenek 2 (kendi Vercel'in): yukarıdakini silip bunu aç, PROJE_ADI'nı değiştir
-<a href="https://PROJE_ADI.vercel.app/api/play" target="_blank">
-  <img src="https://PROJE_ADI.vercel.app/api?theme=dark" alt="Spotify Now Playing"/>
-</a>
--->
+<br/><br/>
+
+<img src="https://widgets.1ceit.com/ahmetguvendik/spotify/top-tracks" alt="Top Tracks" valign="top"/>
+<img src="https://widgets.1ceit.com/ahmetguvendik/spotify/top-artists" alt="Top Artists" valign="top"/>
 
 </div>
 
@@ -117,7 +120,7 @@ public class AhmetGuvendik : SoftwareEngineer
 
 <div align="center">
 
-💬 **Projeler, iş birlikleri veya sadece bir merhaba için bana ulaşmaktan çekinme!**
+💬 **Feel free to reach out for collaborations, projects, or just to say hi!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:512BD4&height=100&section=footer" width="100%" alt="footer"/>
 
