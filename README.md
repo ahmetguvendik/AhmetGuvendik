@@ -10,7 +10,7 @@
 
 ## 🚀 About Me  
 
-💻 Computer Engineer 
+💻 Computer Engineer
 🎯 Currently focused on **.NET development, APIs, and SQL**  
 🔧 Skilled in **ASP.NET Core**, **Database Design**, **Troubleshooting**  
 🌱 Always improving **Full-Stack Development** skills  
